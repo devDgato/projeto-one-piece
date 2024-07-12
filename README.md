@@ -1,7 +1,9 @@
 <h1 align="center">
     Project One Piece
 </h1>
-<h1 align="center"><a src="https://devdgato.github.io/projeto-one-piece/"target="_blank">See the site</a></h1>
+<h2 align="center">
+  <a align="center" href="https://devdgato.github.io/projeto-one-piece/" target="_blank">🔗 See the site 🌐</a>
+</h2>
 
 ## 📕 About 
 
